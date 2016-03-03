@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.4'
+ruby '2.1.7'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
@@ -30,7 +30,7 @@ gem 'devise'
 
 gem "paperclip"
 
-gem 'aws-sdk'
+gem 'aws-sdk', '< 2.0'
 
 gem 'masonry-rails', '~> 0.2.0'
 

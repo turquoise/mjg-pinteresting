@@ -207,7 +207,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  aws-sdk
+  aws-sdk (< 2.0)
   bootstrap-sass
   byebug
   cloudinary
