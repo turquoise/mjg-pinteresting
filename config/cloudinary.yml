@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: mjg
+  api_key: '652182178824658'
+  api_secret: Tu715hOyzaVOcQ3h3YvzjTs9O6Q
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: mjg
+  api_key: '652182178824658'
+  api_secret: Tu715hOyzaVOcQ3h3YvzjTs9O6Q
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: mjg
+  api_key: '652182178824658'
+  api_secret: Tu715hOyzaVOcQ3h3YvzjTs9O6Q
+  enhance_image_tag: true
+  static_image_support: false
